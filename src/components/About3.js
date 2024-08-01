@@ -1,12 +1,12 @@
 import React from 'react';
 import styles from "../stylesheets/About3.module.css";
-import ian from '../images/dp.jpg';
+import sc3 from '../images/sc3.PNG';
 
 const About = () => {
   return (
     <div className={styles.about}>
       <div className={styles.container}>
-        <img src={ian} alt='ian' />
+        <img src={sc3} alt='ian' />
         <div className={styles['col-2']}>
         
         <div className = {styles.radialcontainer}></div>
