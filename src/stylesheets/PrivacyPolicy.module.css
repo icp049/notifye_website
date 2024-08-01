@@ -1,0 +1,75 @@
+/* Existing CSS */
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
+
+
+
+.home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh; /* Updated property */
+    background-image: url("../images/black.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  .content {
+    text-align: center;
+  }
+  
+  .content h1 {
+    font-size: 60px;
+    color: white;
+    font-weight: 800;
+    transition: 0.5s;
+  }
+  
+  .content h1:hover {
+    -webkit-text-stroke: 2px white;
+    color: transparent;
+  }
+  
+  :root {
+    --color-primary: #f6aca2;
+    --color-secondary: #f49b90;
+    --color-tertiary: #f28b7d;
+    --color-quaternary: #f07a6a;
+    --color-quinary: #ee6352;
+  }
+  
+  @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
+
+  .centeredHeading {
+    font-family: 'Pixelify Sans', sans-serif; /* Use the imported font */
+    font-weight: 400;
+    font-size: calc(2rem + 5vw);
+    text-align: center;
+    margin: 0;
+    color: black; /* Set text color to black */
+  }
+
+.policycontent {
+    text-align: left; /* Center horizontally */
+    color: white; /* Set text color to white */
+    margin-top: 35px; /* Spacing from other content */
+    margin-right: 100px;
+    margin-left: 100px;
+}
+  
+
+  
+  /* Fade-in animation for popup */
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+      visibility: hidden;
+    }
+    100% {
+      opacity: 1;
+      visibility: visible;
+    }
+  }
+  
+ 
+  
