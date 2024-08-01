@@ -10,7 +10,7 @@ const About = () => {
         <div className={styles['col-2']}>
          
           <h1 className = {styles.title} align="center">Real Time Updates, Real People</h1>
-          <p align="center">Notifye keeps you effortlessly connected with a real-time social media feed that brings everything happening around you directly to your screen. From urgent warnings, impending dangers, finding a missing person or pet and everyrthing in between, you’ll see it all in one place. Stay engaged with the latest happenings and connect with your community through our dynamic feed, ensuring you’re always in the know.</p>
+          <p align="center">Notifye keeps you effortlessly connected with a real-time social media feed that brings everything happening around you directly to your screen. From urgent warnings, impending dangers, finding a missing person or pet and everything in between, you’ll see it all in one place. Stay engaged with the latest happenings and connect with your community through our dynamic feed, ensuring you’re always in the know.</p>
 
           
 
@@ -24,3 +24,4 @@ const About = () => {
 }
 
 export default About;
+

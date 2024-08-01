@@ -28,7 +28,7 @@ We use the location data solely to provide you with location-based updates and a
 
 <br /><br /> {/* Adds extra space */}
 
-Data security in Notifye is 1100% secured. We employ robust security measures to protect your data such as, 
+Data security in Notifye is secured. We employ robust security measures to protect your data such as, 
 
 Email Verification: To avoid spammers and dummy accounts, we use email verification methods ensuring that only real people can use the app.
 Secure Authentication: We use a high-quality backend server for authentication to ensure your data is handled securely.
